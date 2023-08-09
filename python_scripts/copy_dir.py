@@ -26,14 +26,19 @@ def main():
         formatter_class=argparse.RawTextHelpFormatter
     )
     parser.add_argument(
-        '-c','--copy_dir'
-        '-d', '--destination_dir',
-        help='Copy dir to destination dir with all files. ovewrite enabled.',
+        '-c','--copy_dir',
         type=str,
+        help='Copy dir'
+    )    
+    parser.add_argument(
+        '-d', '--destination_dir',
+        help='destination dir',
+        type=str
     )
     args = parser.parse_args()
     # Now we are ready to start the iteration
     copy_folder(args.copy_dir,args.destination_dir)
 
+print("python started")
 if __name__ == '__main__':
     main()
