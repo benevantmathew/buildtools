@@ -13,5 +13,23 @@ https://www.nuget.org/packages/CodeStack.SwEx.Common/
 
 https://www.nuget.org/packages/Xarial.XCad.SolidWorks/
     xCAD.NET: SOLIDWORKS API development made easy
-     dotnet new install Xarial.XCad.Templates
+    dotnet add package Xarial.XCad.SolidWorks --version 0.8.1
+    dotnet new install Xarial.XCad.Templates
 
+https://www.nuget.org/packages/Xarial.XCad/
+    Xarial.XCad 0.8.1
+    .NET 6.0
+    dotnet add package Xarial.XCad --version 0.8.1
+    
+https://www.nuget.org/packages/System.Drawing.Common/
+    System.Drawing.Common 9.0.0
+    dotnet add package System.Drawing.Common --version 9.0.0
+
+https://www.nuget.org/packages/Microsoft.Win32.SystemEvents/
+    Microsoft.Win32.SystemEvents 9.0.0
+    dotnet add package Microsoft.Win32.SystemEvents --version 9.0.0
+
+https://www.nuget.org/packages/Xarial.XCad.Toolkit/
+    Xarial.XCad.Toolkit 0.8.1
+    dotnet add package Xarial.XCad.Toolkit --version 0.8.1
+    
