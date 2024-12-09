@@ -33,3 +33,10 @@ https://www.nuget.org/packages/Xarial.XCad.Toolkit/
     Xarial.XCad.Toolkit 0.8.1
     dotnet add package Xarial.XCad.Toolkit --version 0.8.1
     
+https://www.nuget.org/packages/WindowsAPICodePack-Core
+    WindowsAPICodePack-Core 1.1.2
+    dotnet add package WindowsAPICodePack-Core --version 1.1.2
+
+https://www.nuget.org/packages/WindowsAPICodePack-Shell
+    WindowsAPICodePack-Shell 1.1.1
+    dotnet add package WindowsAPICodePack-Shell --version 1.1.1    
