@@ -3,3 +3,4 @@
 # directories to skip
 tesseract
 ImageMagick
+ffmpeg
