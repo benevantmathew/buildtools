@@ -1,0 +1,42 @@
+https://www.nuget.org/packages/CodeStack.SwEx.AddIn
+    CodeStack.SwEx.AddIn 0.8.1
+    .NET Framework 4.0
+    This package has been deprecated as it is legacy and is no longer maintained.
+    dot net cli
+    dotnet add package CodeStack.SwEx.AddIn --version 0.8.1
+
+https://www.nuget.org/packages/CodeStack.SwEx.Common/
+    CodeStack.SwEx.Common 0.9.9
+    .NET Framework 4.0
+    This package has been deprecated as it is legacy and is no longer maintained.
+    dotnet add package CodeStack.SwEx.Common --version 0.9.9
+
+https://www.nuget.org/packages/Xarial.XCad.SolidWorks/
+    xCAD.NET: SOLIDWORKS API development made easy
+    dotnet add package Xarial.XCad.SolidWorks --version 0.8.1
+    dotnet new install Xarial.XCad.Templates
+
+https://www.nuget.org/packages/Xarial.XCad/
+    Xarial.XCad 0.8.1
+    .NET 6.0
+    dotnet add package Xarial.XCad --version 0.8.1
+    
+https://www.nuget.org/packages/System.Drawing.Common/
+    System.Drawing.Common 9.0.0
+    dotnet add package System.Drawing.Common --version 9.0.0
+
+https://www.nuget.org/packages/Microsoft.Win32.SystemEvents/
+    Microsoft.Win32.SystemEvents 9.0.0
+    dotnet add package Microsoft.Win32.SystemEvents --version 9.0.0
+
+https://www.nuget.org/packages/Xarial.XCad.Toolkit/
+    Xarial.XCad.Toolkit 0.8.1
+    dotnet add package Xarial.XCad.Toolkit --version 0.8.1
+    
+https://www.nuget.org/packages/WindowsAPICodePack-Core
+    WindowsAPICodePack-Core 1.1.2
+    dotnet add package WindowsAPICodePack-Core --version 1.1.2
+
+https://www.nuget.org/packages/WindowsAPICodePack-Shell
+    WindowsAPICodePack-Shell 1.1.1
+    dotnet add package WindowsAPICodePack-Shell --version 1.1.1    
